@@ -1,6 +1,7 @@
 # Ignore folder in CNN
-cnn-and-adversarial/data
-cnn-and-adversarial/runs
+2-cnn-and-adversarials/checkpoints/
+2-cnn-and-adversarials/data
+2-cnn-and-adversarials/runs
 
 # mac rubbish
 .DS_Store
