@@ -86,6 +86,14 @@ Under the following terms:
 technological measures that legally restrict others from doing
 anything the license permits. 
 
+
+### Acknowledgment and funding
+The material developed in this course has been supported by the [JGI seed corn funding](https://jeangoldinginstitute.blogs.bristol.ac.uk/2021/01/07/seed-corn-funding-winner-announcement/) call 2020-2021
+
+![JGI Logo](./logos/jgi-logo.png "Jean Golding Institute")
+![UoB Logo](./logos/uob_logo_small.png "University of Bristol")
+
+
 ### Contacts 
 
 For any questions or doubts, feel free to open an [issue](https://github.com/WebValley2021ReImagined/unsupervised-learning/issues) in the repository, or drop me an email @ `valerio.maggio_at_bristol.ac.uk`
